@@ -2,7 +2,9 @@ import { ReactNode } from 'react';
 
 function Home(): ReactNode {
   return (
-    <div>
+    <div className="l-wrapper">
+      <h1>test</h1>
+      <abbr title="shortlanguage">sl</abbr>
       Mini Project fighting!Mini Project fighting!Mini Project fighting!Mini Project fighting!Mini
       Project fighting!Mini Project fighting!Mini Project fighting!
     </div>
