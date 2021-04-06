@@ -1,9 +1,8 @@
 html {
-  box-sizing: border-box;
   -webkit-text-size-adjust: 100%; // ios에서 방향 전환 후 글꼴 크기가 변하지 않게 막아줌.
 }
 *, *::before, *::after {
-  box-sizing: inherit;
+  box-sizing: border-box;
 }
 
 /* 요소의 임의 공간 제거 */
