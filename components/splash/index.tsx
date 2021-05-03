@@ -11,7 +11,7 @@ function Splash(): ReactNode {
         alt="우리의 공간을 의미하는 네모 상자"
         layout="fill"
       />
-      <p>whole storage.</p>
+      <p>whole storage</p>
     </div>
   );
 }
