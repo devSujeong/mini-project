@@ -1,5 +1,5 @@
 import { ReactNode } from 'react';
-import Splash from '../components/splash';
+import Splash from '../components/common/Splash';
 
 function Home(): ReactNode {
   return (
