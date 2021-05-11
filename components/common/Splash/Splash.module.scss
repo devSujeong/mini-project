@@ -1,11 +1,18 @@
 .wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
   background: #222;
   color: #fff;
-  height: 100vh;
+  text-align: center;
+  padding-top: 20vh;
 }
 
 .logo-text {
+  margin-top: 19px;
   text-align: center;
   font-size: 3.6rem;
-  font-weight: 500;
+  font-weight: 700;
 }

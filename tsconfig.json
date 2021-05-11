@@ -45,7 +45,7 @@
     "lib": [
       "dom",
       "dom.iterable",
-      "esnext"
+      "esnext",
     ],
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,

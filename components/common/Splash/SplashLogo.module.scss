@@ -1,0 +1,9 @@
+@keyframes rotate-logo {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.logo {
+  transform-origin: 50% 50%;
+  animation: rotate-logo 2s 1;
+}
