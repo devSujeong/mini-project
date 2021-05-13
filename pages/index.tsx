@@ -8,8 +8,6 @@ function Home(): ReactNode {
     if (!sessionStorage.getItem('initLoading')) {
       setIsSplashing(true);
 
-      console.log('commit');
-
       setTimeout(() => {
         sessionStorage.setItem('initLoading', 'initLoadingCompleted');
         setIsSplashing(false);
